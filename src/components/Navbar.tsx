@@ -7,6 +7,7 @@ const navItems = [
   { path: '/guide', name: 'Safety Guide' },
   { path: '/hardware', name: 'Hardware' },
   { path: '/about', name: 'About' },
+  { path: '/docs', name: 'Docs' },
 ];
 
 export default function Navbar() {
